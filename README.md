@@ -10,4 +10,4 @@ This project performs segmentation on the LIDC-IDRI dataset using deep learning 
 - Add inference UI
 - Convert to TensorFlow 2.x
 
-## Continuation of previous repo which can be found [here](https://github.com/PlatJack/LIDC-IDRI)
+## Continuation of previous repository which can be found [here](https://github.com/PlatJack/LIDC-IDRI)
