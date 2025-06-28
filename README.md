@@ -1,5 +1,13 @@
--> Forked from [VinayakRai5] (https://github.com/PlatJack/LIDC-IDRI-Segmentation.git)
+## Lung Nodule Segmentation of LIDC-IDRI Dataset Project
 
--> Modifications and updates by [anujkr2631]
+This project performs segmentation on the LIDC-IDRI dataset using deep learning techniques.
 
--> Continuation of previous repo which can be found [here](https://github.com/PlatJack/LIDC-IDRI)
+> **Forked from** [VinayakRai5/LIDC-IDRI-Segmentation](https://github.com/VinayakRai5/LIDC-IDRI-Segmentation.git)  
+> Further modifications and improvements by [anujkr2631](https://github.com/anujkr2631)
+
+## 🚀 Future Goals
+- Optimize the segmentation model
+- Add inference UI
+- Convert to TensorFlow 2.x
+
+## Continuation of previous repo which can be found [here](https://github.com/PlatJack/LIDC-IDRI)
